@@ -1,0 +1,35 @@
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Form2.resources
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Form3.resources
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Form4.resources
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\vladi\Desktop\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\bin\Debug\CourseWork.exe
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\bin\Debug\CourseWork.pdb
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Form2.resources
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Form3.resources
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Form4.resources
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.exe
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\vladi\OneDrive\Документы\Уник\4 семестр\OOPCourseWork-master\CourseWork\obj\Debug\CourseWork.Form5.resources
