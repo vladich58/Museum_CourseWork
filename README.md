@@ -3,3 +3,4 @@ https://ya.ru
 https://avito.ru
 https://vkvideo.ru
 https://play.tetris.com/
+https://music.yandex.ru/
